@@ -7,7 +7,7 @@ Neo Blob Iksb
 My cute original emojis
 </p>
 
-This emoticon is licensed under CC BY 4.0.
+This emoticon is licensed under CC BY SA 4.0.
 
 <p align="center">
 <img width="48" height="48" src="./categories/neoblobiksb.svg"/>
