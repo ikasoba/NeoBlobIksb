@@ -7,4 +7,4 @@ clean:
 	rm -rf $(IMAGES)
 	
 %.png:
-	inkscape --export-type=png $(@:.png=.svg)
+	inkscape -z -w 192 -h 192 --export-type=png $(@:.png=.svg)
