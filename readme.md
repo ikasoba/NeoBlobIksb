@@ -13,4 +13,6 @@ This emoticon is licensed under CC BY SA 4.0.
 <img width="48" height="48" src="./categories/neoblobiksb.svg"/>
 <img width="48" height="48" src="./categories/emotions/neoblobiksb_smile.svg"/>
 <img width="48" height="48" src="./categories/emotions/neoblobiksb_disappointed.svg"/>
+<img width="48" height="48" src="./categories/emotions/neoblobiksb_gopher.svg"/>
+<img width="48" height="48" src="./categories/emotions/neoblobiksb_flushed.svg"/>
 </p>
