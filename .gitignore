@@ -1,1 +1,4 @@
 *.png
+meta.json
+*.zip
+*.csv#
