@@ -1,1 +1,1 @@
-NeoBlobIksb (github.com/ikasoba/neoblobiksb)
+NeoBlobIksb (github.com ikasoba neoblobiksb)
